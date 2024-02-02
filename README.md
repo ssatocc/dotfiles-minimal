@@ -4,7 +4,7 @@ Dotfiles for minimal setup
 ## Setup
 
 ```bash
-curl -sS https://raw.githubusercontent.com/ssatocc/dotfiles-minimal/main/setup.sh | bash
+curl -sSL https://raw.githubusercontent.com/ssatocc/dotfiles-minimal/main/setup.sh | bash
 ```
 
 ```bash

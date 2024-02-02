@@ -1,6 +1,21 @@
 # dotfiles-minimal
 Dotfiles for minimal setup
 
+## Setup
+
+```bash
+curl -sSL https://raw.githubusercontent.com/ssatocc/dotfiles-minimal/main/setup.sh | bash
+```
+
+```bash
+echo ". ~/.bash_aliases" >> ~/.bashrc && \
+echo ". /etc/bash_completion" >> ~/.bashrc
+```
+
+```bash
+. ~/.bashrc
+```
+
 ## Set global git settings
 
 ```bash
